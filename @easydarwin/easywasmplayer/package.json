@@ -1,0 +1,47 @@
+{
+  "_args": [
+    [
+      "@easydarwin/easywasmplayer@4.0.13",
+      "E:\\backEnd\\big-screen\\big-screen-vue"
+    ]
+  ],
+  "_from": "@easydarwin/easywasmplayer@4.0.13",
+  "_id": "@easydarwin/easywasmplayer@4.0.13",
+  "_inBundle": false,
+  "_integrity": "sha1-g9yS2IDpsFKOXUz8nGaaGh5CDAg=",
+  "_location": "/@easydarwin/easywasmplayer",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "@easydarwin/easywasmplayer@4.0.13",
+    "name": "@easydarwin/easywasmplayer",
+    "escapedName": "@easydarwin%2feasywasmplayer",
+    "scope": "@easydarwin",
+    "rawSpec": "4.0.13",
+    "saveSpec": null,
+    "fetchSpec": "4.0.13"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "http://130.120.2.205:8088/repository/npm-public/@easydarwin/easywasmplayer/-/easywasmplayer-4.0.13.tgz",
+  "_spec": "4.0.13",
+  "_where": "E:\\backEnd\\big-screen\\big-screen-vue",
+  "author": {
+    "name": "likeadust",
+    "email": "1246665453@qq.com"
+  },
+  "description": "EasyPlayer.js H5播放器，是一款能够同时支持HTTP、HTTP-FLV、HLS（m3u8）视频直播与视频点播等多种协议，支持H.264、H.265、AAC等多种音视频编码格式，支持mse、wasm等多种解码方式，支持Windows、Linux、Android、iOS全平台终端的H5播放器。",
+  "main": "EasyWasmPlayer.js",
+  "name": "@easydarwin/easywasmplayer",
+  "private": false,
+  "repository": {
+    "type": "git",
+    "url": "https://www.npmjs.com/package/@easydarwin/easywasmplayer"
+  },
+  "scripts": {
+    "push": "npm publish"
+  },
+  "version": "4.0.13"
+}
