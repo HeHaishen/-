@@ -35,4 +35,4 @@ rtsp://wowzaec2demo.streamlock.net/vod/mp4:BigBuckBunny_115k.mov
 ```
 ### 如果想了解或学习惯于视频265的封装和原理可以参考这个博主的文章
 
-https://blog.csdn.net/kaimo313/article/details/117090431
+https://blog.csdn.net/kaimo313/article/details/117090431# userVideoEasypery
